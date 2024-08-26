@@ -10,8 +10,5 @@ void TwoNumbers()
 
     Console.WriteLine($"Summan av {x} och {y} är: {x + y}");
     Console.WriteLine($"Medelvärdet av {x} och {y} är: {(x + y) / 2}");
-    if( x >= y )
     Console.WriteLine($"Differensen av {x} och {y} är: {x - y}");
-    else
-    Console.WriteLine($"Differensen av {x} och {y} är: {y - x}");
 }
