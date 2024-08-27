@@ -1,8 +1,4 @@
 ﻿FeverTemperature();
-FeverTemperature();
-FeverTemperature();
-FeverTemperature();
-FeverTemperature();
 
 Console.ReadLine();
 void FeverTemperature()

@@ -1,12 +1,4 @@
-﻿//Be användaren mata in sin ålder. Om den är mindre än 18 är användaren ej myndig. Om den
-//är över 65 är den pensionär. Annars är den myndig men inte pensionär. Meddela användaren
-//om vad som gäller för dennes ålder. Kontrollera också att användaren har matat in ett riktigt
-//tal. Har den matat in andra tecken än siffror meddela användaren att den har ar matat in en
-//felaktig ålder. 
-
-
-AgeControl();
-
+﻿AgeControl();
 
 Console.ReadKey();
 
@@ -41,8 +33,4 @@ void AgeControl()
         Console.WriteLine("Måste vara siffror mellan 0-115");
         AgeControl();
     }
-    
-
- 
-
 }
