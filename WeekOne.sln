@@ -3,29 +3,39 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35027.167
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudyQuestions", "StudyQuestions\StudyQuestions.csproj", "{40F7A066-F2DA-451B-926B-A9F3FEE0E251}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StudyQuestions", "StudyQuestions\StudyQuestions.csproj", "{40F7A066-F2DA-451B-926B-A9F3FEE0E251}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld", "HelloWorld\HelloWorld.csproj", "{D5C23AF3-39B2-401E-A87E-392C1386CF9A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelloWorld", "HelloWorld\HelloWorld.csproj", "{D5C23AF3-39B2-401E-A87E-392C1386CF9A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DumpCode", "DumpCode\DumpCode.csproj", "{3AB68910-BCB1-43BC-A3A9-B858A9042160}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DumpCode", "DumpCode\DumpCode.csproj", "{3AB68910-BCB1-43BC-A3A9-B858A9042160}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VariablerTwo", "VariablerTwo\VariablerTwo.csproj", "{B9301045-4770-4FB6-A98D-4280EBC2C8D7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VariablerTwo", "VariablerTwo\VariablerTwo.csproj", "{B9301045-4770-4FB6-A98D-4280EBC2C8D7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Variabler3", "Variabler3\Variabler3.csproj", "{383F3C9E-7EF1-4FC1-808F-CB9D711C7387}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Variabler3", "Variabler3\Variabler3.csproj", "{383F3C9E-7EF1-4FC1-808F-CB9D711C7387}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Variabler4", "Variabler4\Variabler4.csproj", "{AE12D700-1385-452D-9175-6DD3C91CC4EE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Variabler4", "Variabler4\Variabler4.csproj", "{AE12D700-1385-452D-9175-6DD3C91CC4EE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Variabler5", "Variabler5\Variabler5.csproj", "{9154560C-7437-4A14-97F5-0F3F1FE65D01}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Variabler5", "Variabler5\Variabler5.csproj", "{9154560C-7437-4A14-97F5-0F3F1FE65D01}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Variabler6", "Variabler6\Variabler6.csproj", "{7A8848FB-8705-4031-8001-0BDCF2D79792}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Variabler6", "Variabler6\Variabler6.csproj", "{7A8848FB-8705-4031-8001-0BDCF2D79792}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Variabler7", "Variabler7\Variabler7.csproj", "{1ADD6AB0-F1DE-4797-9EAD-FEE6492CCCD0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Variabler7", "Variabler7\Variabler7.csproj", "{1ADD6AB0-F1DE-4797-9EAD-FEE6492CCCD0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Variabler9", "Variabler9\Variabler9.csproj", "{ADD81F60-51EE-4252-BF9B-13BAD32D63E3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Variabler9", "Variabler9\Variabler9.csproj", "{ADD81F60-51EE-4252-BF9B-13BAD32D63E3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Variabler10", "Variabler10\Variabler10.csproj", "{25622595-3975-4EA2-BE52-B75A8419DD1A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Variabler10", "Variabler10\Variabler10.csproj", "{25622595-3975-4EA2-BE52-B75A8419DD1A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Variabler11", "Variabler11\Variabler11.csproj", "{A22F249B-A048-4A8C-BD33-CEECE3DC7F0C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Variabler11", "Variabler11\Variabler11.csproj", "{A22F249B-A048-4A8C-BD33-CEECE3DC7F0C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IF1", "IF1\IF1.csproj", "{3A2D9138-0183-488B-BD9A-B3D3105EEAF8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1Lektion", "1Lektion\1Lektion.csproj", "{7525294F-9E3C-457A-8592-355048229AA3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IF2", "IF2\IF2.csproj", "{AE9EA1F2-6AA8-462C-8CFA-9D9E0D5FDEE5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IF3", "IF3\IF3.csproj", "{920841B8-27C8-4BAC-91C3-E32383E0291E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IF4", "IF4\IF4.csproj", "{20237FB2-C6D3-46D2-BC47-495D3B01060B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +91,26 @@ Global
 		{A22F249B-A048-4A8C-BD33-CEECE3DC7F0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A22F249B-A048-4A8C-BD33-CEECE3DC7F0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A22F249B-A048-4A8C-BD33-CEECE3DC7F0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A2D9138-0183-488B-BD9A-B3D3105EEAF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A2D9138-0183-488B-BD9A-B3D3105EEAF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A2D9138-0183-488B-BD9A-B3D3105EEAF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A2D9138-0183-488B-BD9A-B3D3105EEAF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7525294F-9E3C-457A-8592-355048229AA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7525294F-9E3C-457A-8592-355048229AA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7525294F-9E3C-457A-8592-355048229AA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7525294F-9E3C-457A-8592-355048229AA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE9EA1F2-6AA8-462C-8CFA-9D9E0D5FDEE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE9EA1F2-6AA8-462C-8CFA-9D9E0D5FDEE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE9EA1F2-6AA8-462C-8CFA-9D9E0D5FDEE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE9EA1F2-6AA8-462C-8CFA-9D9E0D5FDEE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{920841B8-27C8-4BAC-91C3-E32383E0291E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{920841B8-27C8-4BAC-91C3-E32383E0291E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{920841B8-27C8-4BAC-91C3-E32383E0291E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{920841B8-27C8-4BAC-91C3-E32383E0291E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20237FB2-C6D3-46D2-BC47-495D3B01060B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20237FB2-C6D3-46D2-BC47-495D3B01060B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20237FB2-C6D3-46D2-BC47-495D3B01060B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20237FB2-C6D3-46D2-BC47-495D3B01060B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
