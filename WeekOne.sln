@@ -79,6 +79,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loop11", "Loop11\Loop11.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loop12", "Loop12\Loop12.csproj", "{60972ADE-48D4-4955-9D2F-BA879E67AE1F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GissaTal", "GissaTal\GissaTal.csproj", "{E9E9CEA5-94AE-4E2E-A638-D3BCA96A45C2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -237,6 +239,10 @@ Global
 		{60972ADE-48D4-4955-9D2F-BA879E67AE1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{60972ADE-48D4-4955-9D2F-BA879E67AE1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{60972ADE-48D4-4955-9D2F-BA879E67AE1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9E9CEA5-94AE-4E2E-A638-D3BCA96A45C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9E9CEA5-94AE-4E2E-A638-D3BCA96A45C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9E9CEA5-94AE-4E2E-A638-D3BCA96A45C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9E9CEA5-94AE-4E2E-A638-D3BCA96A45C2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
