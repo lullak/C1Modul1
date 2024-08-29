@@ -1,53 +1,32 @@
-﻿Console.Write("n = ");
-int n = int.Parse(Console.ReadLine());
-Console.WriteLine();
-PrintTriangle(n);
+﻿//Övningarna går ut på att studenterna skall träna på att läsa kod och därefter beskriva vad de kommit
+//fram till.
+//- Läs koden individuellt och skriv ned ditt resultat (5 min)
+//- I grupper på 3 studenter, förklara för de andra hur du kommit fram till resultatet (10 min)
+//- Vi avrundar med att gå igenom lösningen tillsammans på tavlan
+// Vad blir resultatet av följande kod, vad skrivs ut ? 
 
 
-Console.ReadLine();
 
-static void PrintTriangle(int n)
+bool iAmHockeyPlayer;
+bool iAmSoccerPlayer;
+bool isWinter = false;
 
+iAmHockeyPlayer = true;
+iAmSoccerPlayer = false;
+if (isWinter != true) // is vinter är false koden körs
 {
-
-    // Printing the upper part of the triangle
-
-    for (int line = 1; line <= n; line++)
-
-    {
-
-        PrintLine(1, line);
-
-    }
-
-
-
-    // Printing the bottom part of the triangle
-
-    // that is under the longest line
-
-    for (int line = n - 1; line >= 1; line--)
-
-    {
-
-        PrintLine(1, line);
-
-    }
-
+    iAmSoccerPlayer = true; //sätts till true
 }
 
-static void PrintLine(int start, int end)
-
+if (iAmSoccerPlayer == true) // condition stämmer
 {
-
-    for (int i = start; i <= end; i++)
-
-    {
-
-        Console.Write(i + " ");
-
-    }
-
-    Console.WriteLine();
-
+    Console.WriteLine("Soccer"); // skrivs ut
+}
+else if (iAmHockeyPlayer)
+{
+    Console.WriteLine("Hockey");
+}
+else
+{
+    Console.WriteLine("Neither");
 }

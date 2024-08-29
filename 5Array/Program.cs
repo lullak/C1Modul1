@@ -4,6 +4,20 @@
 //en max och en medeltemperatur.
 
 Console.WriteLine("Hur många mätningar skall registreras? ");
-double amountOfMeasurments = Convert.ToDouble(Console.ReadLine());
+int amountOfMeasurments = Convert.ToInt32(Console.ReadLine());
 
-double[] measurments = new double[(int)amountOfMeasurments];
+double[] measurments = new double[amountOfMeasurments];
+
+for (int i = 0; i < measurments.Length; i++)
+{
+    Console.Write("Ange temp: ");
+    measurments[i] = Convert.ToDouble(Console.ReadLine());
+}
+
+foreach (var measurment in measurments)
+{
+    Console.WriteLine(measurment);
+}
+
+Console.WriteLine($"Max tempen är {measurments.Max()} och medel är {measurments.Average()}");
+Console.ReadKey();
