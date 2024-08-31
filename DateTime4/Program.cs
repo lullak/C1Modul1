@@ -12,6 +12,7 @@ TimeSpan difference = dateTime1 - dateTime2;
 if (dateCompare > 0) 
 {
     Console.WriteLine($"Datum {dateTime1:yyyy-MM-dd} är senare än {dateTime2:yyyy-MM-dd}");
+    //Min beräkning
     Console.WriteLine($"Det skiljer sig {dateTime1 - dateTime2:dd} dagar ");
     //enligt facit
     Console.WriteLine($"Första datumet är {difference.Days} dagar större");
@@ -20,6 +21,7 @@ if (dateCompare > 0)
 else if (dateCompare < 0)
 { 
     Console.WriteLine($"Datum {dateTime2:yyyy-MM-dd} är senare än {dateTime1:yyyy-MM-dd}");
+    //Min beräkning
     Console.WriteLine($"Det skiljer sig {dateTime2 - dateTime1:dd} dagar");
     //enligt facit
     Console.WriteLine($"Första datumet är {difference.Days *-1} dagar större");
