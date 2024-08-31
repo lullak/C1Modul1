@@ -8,4 +8,21 @@
 //string sortedArray = new string(numbersArray);
 //Console.WriteLine(sortedArray);
 
+//Metod
+string input = "334626453625432";
+
+StringSortNumbers(input);
+
+void StringSortNumbers(string stringNumbersToSort)
+{
+
+    string numbers = stringNumbersToSort;
+    char[] chars = numbers.ToCharArray();
+
+    Array.Sort(chars);
+//  string sortedArrayToString = new string(chars);    // konvertera till string
+    Console.WriteLine(chars);
+
+}
+
 Console.ReadLine();
